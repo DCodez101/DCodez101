@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dcodez101&label=Profile%20views&color=0e75b6&style=flat" alt="dcodez101" />
-</p>
-
-<p align="center">
   3rd year CSE student obsessed with building things that <b>actually work</b>. I ship full-stack apps, train ML models, and build at hackathons. Currently deep-diving into <b>AI agents, RAG systems & LangChain</b>.
 </p>
 
@@ -60,7 +56,6 @@
 | 🔬 Research | ML model accuracy **96.79%** — AI-driven learning for dyslexic students |
 
 ---
-
 
 ### 🤝 Connect
 
